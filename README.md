@@ -24,7 +24,7 @@ Eagle Apps can be used as stand-alone applications, but they also integrate seam
 a full-featured <a href="https://www.eagle.com">Open Source ERP</a> when you install several Apps.
 
 
-Getting started with Eagle
+Getting started with Eagle not workig properly
 -------------------------
 For a standard installation please follow the <a href="https://www.eagle.com/documentation/master/setup/install.html">Setup instructions</a>
 from the documentation.
